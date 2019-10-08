@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     TextView readingView;
     @BindView(R.id.applicationRestarts)
     TextView appRestartsView;
-
+//test
     private int howManyTimesBeenRun = 0;
     private static final String NUMBER_OF_TIMES_RUN_KEY = "NUMBER_OF_TIMES_RUN_KEY";
     @Override
